@@ -18,8 +18,8 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "AgentConfigurationId": "",
       "Description": "",
-      "DateCreation": "9/17/2026 11:52:11 AM +00:00",
-      "DateModify": "9/17/2026 11:52:11 AM +00:00",
+      "DateCreation": "9/17/2026 12:04:14 PM +00:00",
+      "DateModify": "9/17/2026 12:04:14 PM +00:00",
       "Title": "8257",
       "Type": "Flow",
       "IsDeleted": "False",
@@ -38115,7 +38115,7 @@
     ],
     "DesktopElementInfo13": [
       {
-        "StrategyListSource": "5467edff-1e1d-4a15-b243-c9f505e2a0fb",
+        "StrategyListSource": "ea00072c-0462-458a-8825-e847d214c535",
         "ClickPointX": "91",
         "ClickPointY": "3",
         "InspectedHight": "29",
@@ -38136,7 +38136,7 @@
         "Id": "79de13e0-5130-403c-b1d4-e4fc0e1f79a4"
       },
       {
-        "StrategyListSource": "be25b83b-93c7-4aa2-9458-252176d8f023",
+        "StrategyListSource": "20404f00-9aac-409f-8189-96ee40977c95",
         "ClickPointX": "91",
         "ClickPointY": "3",
         "InspectedHight": "29",
